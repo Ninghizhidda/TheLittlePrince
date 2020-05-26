@@ -1,5 +1,5 @@
 # TheLittlePrince
-The little prince educational game
+The Little Prince - educational game
 
 Задачи в играта
 Сцени от „Малкият принц“ включени в играта:
